@@ -34,19 +34,18 @@ A modern, full-stack web application designed for tracking live cricket scores, 
 
 ## 📸 Screenshots
 
-> **Note:** Please add your screenshots to a `screenshots/` directory at the root of the project to display them below.
 
 ### 1. Dashboard Overview
 *(Shows the smart toggle between real CricAPI live matches and the Demo Live Match fallback, alongside recently completed matches).*
-![Dashboard Overview](screenshots/dashboard.png)
+![Dashboard Overview](screenshot1.png)
 
 ### 2. Match Details & Score Management
 *(Demonstrates the Live Event buttons and the chronological feed of recent deliveries/events).*
-![Match Details & Score Management](screenshots/match-details.png)
+![Match Details & Score Management](screenshot2.png)
 
 ### 3. Sample Player Statistics
 *(Displays the seeded player records grouped by their respective teams).*
-![Player Statistics](screenshots/players.png)
+![Player Statistics](screenshot3.png)
 
 ---
 
